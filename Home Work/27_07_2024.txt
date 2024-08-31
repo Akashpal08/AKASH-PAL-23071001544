@@ -1,0 +1,50 @@
+1-print("hello world")
+
+output- hello world
+
+2-  a=5
+    b=6
+    print(a+b)
+ 
+output- 11
+
+3- a="hello"
+   b="world"
+   print(a+b)
+
+output- helloworld
+
+4- a=5
+   b="hello"
+   print(a+b)
+
+output- TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+5- a="5"
+   b="hello"
+   print(a+b)
+
+output- 5hello
+
+6- a=3.6
+   b=4
+ print(a+b)
+
+output- 7.6
+
+7 - message="hello world"
+    print(message)
+
+output- hello world
+
+8- print(hello world)
+
+output- SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+9- print("hello","world","this","is",python,"code")
+
+ output- NameError: name 'python' is not defined
+
+10 -print("hello","world","this","is","python","code",sep="==")
+
+output- hello==world==this==is==python==code

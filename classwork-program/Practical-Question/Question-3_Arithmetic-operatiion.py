@@ -1,4 +1,6 @@
-# Use different types of arithmetic operator
+# QUESTION_3:Perform all the Arithmetic operators and show there result along with there error(if any exist).
+
+
 a=4/2
 d=7%2
 b=3**4
